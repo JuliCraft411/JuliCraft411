@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @JuliCraft411
-- 👀 I’m interested in: Minecraft Modding
-- 🌱 I’m currently learning: Java Minecraft Modding
-- 📫 How to reach me: On youtube via comments (youtube.com/@JuliCraft411)
-- 😄 Pronouns: he/him
-
+Hi, I'm Julian from Germany 🇩🇪
+I'm currently learning JavaScript and python, to later move on to C, C++, Rust and assembly for linux kernel development.
+If you want to DM me, message me on Instagram (@JuliCraft411), my account is public.
